@@ -1,7 +1,5 @@
 ## 👋 Welcome to my GitHub profile
 
-<img align="right" height="85" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 Final-year **Computer Engineering student** at **ISEL**, with a  
 strong interest in **software development** and **databases**.  
 Proactive and with hands-on experience gained through  
