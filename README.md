@@ -25,33 +25,7 @@ here if you wanna take a look.
 
 ### 📊 Languages Usage
 
-<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bar { rx: 5; ry: 5; }
-    .label { font: 14px sans-serif; fill: #eee; }
-    .percent { font: 12px sans-serif; fill: #ccc; text-anchor: end; }
-  </style>
-
-  <!-- Java -->
-  <rect class="bar" x="150" y="15" width="160" height="20" fill="#f89820" rx="5" ry="5" />
-  <text class="label" x="10" y="30">Java</text>
-  <text class="percent" x="310" y="30">80%</text>
-
-  <!-- Kotlin -->
-  <rect class="bar" x="150" y="45" width="140" height="20" fill="#7f52ff" rx="5" ry="5" />
-  <text class="label" x="10" y="60">Kotlin</text>
-  <text class="percent" x="290" y="60">70%</text>
-
-  <!-- Spring -->
-  <rect class="bar" x="150" y="75" width="100" height="20" fill="#6db33f" rx="5" ry="5" />
-  <text class="label" x="10" y="90">Spring</text>
-  <text class="percent" x="250" y="90">50%</text>
-
-  <!-- Node.js -->
-  <rect class="bar" x="150" y="105" width="90" height="20" fill="#68a063" rx="5" ry="5" />
-  <text class="label" x="10" y="120">Node.js</text>
-  <text class="percent" x="240" y="120">45%</text>
-</svg>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&langs_count=6&theme=dark)](https://github.com/NunoNevesEF/github-readme-stats)
 
 ---
 
