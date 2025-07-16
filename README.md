@@ -5,9 +5,8 @@
 Final-year **Computer Engineering student** at **ISEL**, with a  
 strong interest in **software development** and **databases**.  
 Proactive and with hands-on experience gained through  
-various academic projects.  
-
-🎯 Currently looking for opportunities to apply my skills in real-world environments.
+various academic projects. I have most of the projects I developed
+here if you wanna take a look.
 
 ---
 
@@ -25,17 +24,7 @@ various academic projects.
 
 <br/><br/>
 
----
-
-### 📊 GitHub Stats
-
-![Nuno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NunoNevesEF&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/nuno-neves-dev/)  
-- 📧 Email: *nunoneves.eng@gmail.com*
+- [LinkedIn]([https://www.linkedin.com/in/nuno-neves-dev/](https://www.linkedin.com/in/nuno-miguel-neves/))  
+- 📧 Email: *nmnevess@gmail.com*
