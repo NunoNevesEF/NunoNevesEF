@@ -23,6 +23,14 @@ here if you wanna take a look.
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&theme=default&langs_count=8)
+
+![NunoNevesEF's GitHub stats](https://github-readme-stats.vercel.app/api?username=NunoNevesEF&show_icons=true&theme=default)
+
+---
+
 ### 🚀 Skills & Technologies
 
 - **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
