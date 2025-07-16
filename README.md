@@ -1,11 +1,11 @@
 ## 👋 Welcome to my GitHub profile
 
-<img align="right" height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="85" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Final-year **Computer Engineering student** at **ISEL**, with a  
 strong interest in **software development** and **databases**.  
 Proactive and with hands-on experience gained through  
-various academic projects. I have most of the projects I developed
+various academic projects. I have most of the projects I developed  
 here if you wanna take a look.
 
 ---
@@ -22,7 +22,20 @@ here if you wanna take a look.
 
 <br/><br/>
 
+---
+
+### 🚀 Skills & Technologies
+
+- **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
+- **Frameworks & Libraries:** Spring, React, Jetpack Compose, Express, Handlebars
+- **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs
+- **Testing:** JUnit, Mocha, Chai
+- **Others:** JPA, Unit Testing, REST APIs, gRPC, Google Cloud, GitHub Actions
+- **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
+
+---
+
 ### 📫 Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/nuno-neves-dev/](https://www.linkedin.com/in/nuno-miguel-neves/))  
+- [LinkedIn](https://www.linkedin.com/in/nuno-miguel-neves/)
 - 📧 Email: *nmnevess@gmail.com*
