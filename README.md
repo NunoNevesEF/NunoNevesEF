@@ -4,7 +4,7 @@ Final-year **Computer Engineering student** at **ISEL**, with a
 strong interest in **software development** and **databases**.  
 Proactive and with hands-on experience gained through  
 various academic projects. I have most of the projects I developed  
-here if you wanna take a look.
+here if you want to take a look.
 
 ---
 
