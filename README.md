@@ -48,6 +48,16 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 ---
 
+### 🌟 Featured Projects
+
+- **CMDB (Chelas Movies DB)**  
+  RESTful web app with authentication, ElasticSearch, and Handlebars UI — [Repo](https://github.com/NunoNevesEF/cmdb)
+
+- **Monument Recognition System** (Cloud final project)  
+  Distributed system using Google Cloud (Vision API, Pub/Sub, Firestore) and gRPC interface — [Repo](https://github.com/NunoNevesEF/monument-detector)  
+
+---
+
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/nuno-miguel-neves/)
