@@ -38,6 +38,8 @@ Proactive, with hands-on experience from several academic projects — most of w
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
+<br/><br/>
+
 ---
 
 ### 📊 Languages Usage
