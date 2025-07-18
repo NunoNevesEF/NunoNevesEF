@@ -29,6 +29,17 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 ---
 
+### 🧰 IDEs & Platforms
+
+<img align="left" alt="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Eclipse" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+
+---
+
 ### 📊 Languages Usage
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&langs_count=6&theme=dark)](https://github.com/NunoNevesEF/github-readme-stats)
