@@ -58,7 +58,7 @@ Proactive, with hands-on experience from several academic projects — most of w
   RESTful web app with authentication, ElasticSearch, and Handlebars UI — [Repo](https://github.com/NunoNevesEF/cmdb)
 
 - **Monument Recognition System** (Cloud final project)  
-  Distributed system using Google Cloud (Vision API, Pub/Sub, Firestore) and gRPC interface — [Repo]([https://github.com/NunoNevesEF/monument-detector](https://github.com/NunoNevesEF/Cloud-Computing))  
+  Distributed system using Google Cloud (Vision API, Pub/Sub, Firestore) and gRPC interface — [Repo](https://github.com/NunoNevesEF/Cloud-Computing)  
 
 ---
 
