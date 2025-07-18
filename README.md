@@ -1,10 +1,7 @@
 ## 👋 Welcome to my GitHub profile
 
-Final-year **Computer Engineering student** at **ISEL**, with a  
-strong interest in **software development** and **databases**.  
-Proactive and with hands-on experience gained through  
-various academic projects. I have most of the projects 
-I developed here if you want to take a look.
+Final-year **Computer Engineering student** at **ISEL**, passionate about **software development**, **databases**, and **clean, maintainable code**.  
+Proactive, with hands-on experience from several academic projects — most of which are available here on my GitHub!
 
 ---
 
@@ -24,10 +21,10 @@ I developed here if you want to take a look.
 ### 🚀 Skills & Technologies
 
 - **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
-- **Frameworks & Libraries:** Spring, React, Jetpack Compose, Express, Handlebars
+- **Frameworks & Libraries:** Spring Boot, Hibernate, React, Jetpack Compose, Express, Handlebars
 - **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs
 - **Testing:** JUnit, Mocha, Chai
-- **Others:** JPA, Unit Testing, REST APIs, gRPC, Google Cloud, GitHub Actions
+- **Others:** JPA, Unit Testing, REST APIs, gRPC, GitHub Actions
 - **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
 
 ---
