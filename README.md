@@ -42,6 +42,14 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 ---
 
+## Git-Stats
+
+<div>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NunoNevesEF&theme=dark" alt="NunoNevesEF" />
+</div>
+
+---
+
 ### 📊 Languages Usage
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&langs_count=6&theme=dark)](https://github.com/NunoNevesEF/github-readme-stats)
