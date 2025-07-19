@@ -25,7 +25,7 @@ Proactive, with hands-on experience from several academic projects — most of w
 ### 🚀 Skills & Technologies
 
 - **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
-- **Frameworks & Libraries:** Spring, Spring MVC, Spring Boot, Hibernate, React, Jetpack Compose, Express, Handlebars
+- **Frameworks & Libraries:** Spring, Spring MVC, Spring Boot, React, Jetpack Compose, Express, Handlebars
 - **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs
 - **Testing:** JUnit, Mocha, Chai
 - **Others:** JPA, Unit Testing, REST APIs, gRPC, GitHub Actions
