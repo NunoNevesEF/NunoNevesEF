@@ -26,7 +26,7 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 - **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
 - **Frameworks & Libraries:** Spring, Spring Boot, Spring Data Jpa, React, Jetpack Compose, Express, Handlebars
-- **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs
+- **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs, basic AWS
 - **Testing:** JUnit, Mockito, Mocha, Chai
 - **Others:** JPA, Unit Testing, REST APIs, gRPC
 - **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
