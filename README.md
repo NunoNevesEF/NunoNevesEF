@@ -65,8 +65,6 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 ---
 
----
-
 ### 📫 Contact
 
 <div>
