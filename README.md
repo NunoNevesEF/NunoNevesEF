@@ -57,6 +57,15 @@ Proactive, with hands-on experience from several academic projects — most of w
 
 ---
 
+### 📜 Certifications & Courses
+
+Spring Framework Course – Udemy
+🔗 [Repository](https://github.com/NunoNevesEF/Java-Spring-Course)
+Apache Kafka Course – Udemy
+🔗 [Repository](https://github.com/NunoNevesEF/Apache-Kafka-Course)
+
+---
+
 ### 📫 Contact
 
 <div>
