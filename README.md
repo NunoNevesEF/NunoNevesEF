@@ -50,7 +50,7 @@ Proactive, with hands-on experience from several academic projects — most of w
 ### 📊 Git stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NunoNevesEF&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NunoNevesEF&theme=github-dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoNevesEF&layout=compact&langs_count=6&theme=dark" alt="Top Langs" height="165"/>
 </p>
 
