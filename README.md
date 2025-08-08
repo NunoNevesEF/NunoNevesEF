@@ -17,6 +17,7 @@ Proactive, with hands-on experience from several academic projects — most of w
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Kafka" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 
 <br/><br/>
 
@@ -28,7 +29,7 @@ Proactive, with hands-on experience from several academic projects — most of w
 - **Frameworks & Libraries:** Spring, Spring Boot, Spring Data JPA, React, Jetpack Compose, Express, Handlebars
 - **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs, AWS (basic)
 - **Testing:** JUnit, Mockito, Mocha, Chai
-- **Others:** JPA, Unit Testing, REST APIs, Full Stack, Microservices, gRPC
+- **Others:** JPA, Kafka, Unit Testing, REST APIs, Full Stack, Microservices, gRPC
 - **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
 
 ---
