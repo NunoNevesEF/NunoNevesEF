@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub profile
 
-Final-year **Computer Engineering student** at **ISEL** and Software Developer CGI, passionate about **software development**, **databases**, and **clean, maintainable code**.  
+Final-year **Computer Engineering student** at **ISEL** and Software Developer [CGI](https://www.cgi.com/portugal/pt-pt), passionate about **software development**, **databases**, and **clean, maintainable code**.  
 Proactive, with hands-on experience from several academic projects — most of which are available here on my GitHub!
 
 ---
