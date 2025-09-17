@@ -28,7 +28,7 @@ Final-year **Computer Engineering student** at **ISEL** and **Software Developer
 - **Frameworks & Libraries:** Spring, Spring Boot, Spring Data JPA, React, Angular, Jetpack Compose, Express, Handlebars
 - **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs, AWS (basic)
 - **Testing:** JUnit, Mockito, Mocha, Chai
-- **Others:** JPA, Kafka, Unit Testing, REST APIs, Full Stack, Microservices, gRPC, Liquibasse
+- **Others:** JPA, Kafka, Unit Testing, REST APIs, Full Stack, Microservices, gRPC, Liquibase
 - **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
 
 ---
