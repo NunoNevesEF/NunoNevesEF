@@ -25,10 +25,10 @@ Final-year **Computer Engineering student** at **ISEL** and **Software Developer
 ### 🚀 Skills & Technologies
 
 - **Languages:** Kotlin, Java, C, Python, JavaScript, TypeScript, HTML, Assembly (Intel)
-- **Frameworks & Libraries:** Spring, Spring Boot, Spring Data JPA, React, Jetpack Compose, Express, Handlebars
+- **Frameworks & Libraries:** Spring, Spring Boot, Spring Data JPA, React, Angular, Jetpack Compose, Express, Handlebars
 - **Tools & Platforms:** Node.js, PostgreSQL, ElasticSearch, Docker, Git, Google Cloud APIs, AWS (basic)
 - **Testing:** JUnit, Mockito, Mocha, Chai
-- **Others:** JPA, Kafka, Unit Testing, REST APIs, Full Stack, Microservices, gRPC
+- **Others:** JPA, Kafka, Unit Testing, REST APIs, Full Stack, Microservices, gRPC, Liquibasse
 - **Languages:** Portuguese 🇵🇹 (native), English 🇬🇧 (fluent)
 
 ---
